@@ -26,9 +26,6 @@ Want to get to know me?  [Check out my website.](https://zanewesley.github.io)
 * SQL
 * Python
 
-<br>
-<br>
-
 ## Socials
 <br>
 
