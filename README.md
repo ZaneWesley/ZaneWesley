@@ -2,7 +2,7 @@
 
 Hey there! 
 
-I'm Zane! I'm a Jesus lover, web coder and Covid survivor. I also enjoy running in my spare time. I specialize in UX and UI design and work hard to make sure that all of my projects work flawlessly and are fully accessible.
+I'm Zane! I'm a Jesus lover, web coder and Covid survivor. I also enjoy running in my spare time. I specialize in UX and UI development and design and work hard to make sure that all of my projects work flawlessly and are fully accessible.
 
 Want to get to know me?  [Check out my website.](https://zanewesley.github.io)
 
