@@ -4,7 +4,7 @@ Hey there!
 
 I'm Zane! I'm a Jesus lover, web coder, runner, soccer player, and Covid survivor. I specialize in UX and UI development and design and work hard to make sure that all of my projects work flawlessly and are fully accessible.
 
-Want to get to know me?  [Check out my website.](https://zanewesley.github.io)
+Want to get to know me?  [Contact me!](https://zanewesley.github.io/about)
 
 ## GitHub Stats
 <br>
