@@ -1,7 +1,9 @@
 <img src="https://zanewesley.github.io/images/codepen-profile-bg.svg" width="50%">
 
 # Hey There!
-I'm **Zane!** I love Jesus, web coding, running and Google. I specialize in UX and UI development and design and work hard to make sure that all of my projects work flawlessly and are fully accessible.
+I'm **Zane Wesley!** I love Jesus, web coding, running and Google. I specialize in UX and UI development and design and work hard to make sure that all of my projects work flawlessly and are fully accessible.
+
+Want to see what I've been up to? Visit my website to see my web apps. [https://zanewesley.github.io](https://zanewesley.github.io)
 
 Want to get to know me?  [Contact me!](https://zanewesley.github.io/about)
 
