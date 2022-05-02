@@ -9,7 +9,6 @@ Want to get to know me?  [Contact me!](https://zanewesley.github.io/about)
 
 ## What I'm Working On
 - Group messaging webapp
-- Updating website homepage ([View Beta](https://zanewesley.github.io/beta))
 
 
 ## Stats
