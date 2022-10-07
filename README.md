@@ -27,3 +27,4 @@ Want to get to know me?  [Contact me!](https://zanewesley.github.io/about)
 
 ## Socials
 <a href="https://codepen.io/zanewesley">CodePen</a>
+<a href="https://www.strava.com/athletes/83598166">Strava</a>
