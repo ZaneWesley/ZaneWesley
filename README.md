@@ -7,7 +7,8 @@ Want to see what I've been up to? Visit my website to see my web apps. [https://
 
 Have feedback or want to get to know me?  [Contact me!](https://zanewesley.github.io/feedback)
 
-## What I'm Working On
+## What I'm Working On.
+- 2022 Christmas Update
 - 2022 Christmas Countdown
 - 3d Web platformer game
 - Group messaging webapp
