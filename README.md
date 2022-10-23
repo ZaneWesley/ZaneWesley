@@ -5,7 +5,7 @@ I'm **Zane Wesley!** I love Jesus, web coding, running and Google. I specialize 
 
 Want to see what I've been up to? Visit my website to see my web apps. [https://zanewesley.github.io](https://zanewesley.github.io)
 
-Want to get to know me?  [Contact me!](https://zanewesley.github.io/about)
+Have feedback or want to get to know me?  [Contact me!](https://zanewesley.github.io/feedback)
 
 ## What I'm Working On
 - 2022 Christmas Countdown
