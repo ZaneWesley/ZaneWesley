@@ -22,8 +22,6 @@ Have feedback or want to get to know me?  [Contact me!](https://zanewesley.githu
 
 
 ## Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zanewesley&layout=compact&hide=ruby)](https://github.com/zanewesley)
-
 [![Zane's Stats](https://github-readme-stats.vercel.app/api?username=zanewesley&layout=compact&hide=prs&show_icons=true)](https://github.com/zanewesley)
 
 ## Languages
