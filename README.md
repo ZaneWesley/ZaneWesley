@@ -11,7 +11,7 @@ Have feedback or want to get to know me?  [Contact me!](https://zanewesley.githu
 - 2022 Christmas Update
 - 2022 Christmas Countdown
 - Global Leaderboard for Games
-- Usernames can now me changed
+- Usernames can now be changed
 
 ## What I'm Working On
 - Tower Crash 3D Remake
