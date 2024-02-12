@@ -8,18 +8,10 @@ Want to see what I've been up to? Visit my website to see my projects. [https://
 Have feedback or want to get to know me?  [Contact me!](https://zanewesley.github.io/feedback)
 
 ## What's New
-- 2023 Spring Update
-- ZaneWesley Discord Server! [Join Here](https://discord.gg/4XEWxQ9Yvn)
-- Tower Takedown (Tower Crash 3D Remake)
-- Guess That Number 2
-- Corey 3.0 Release
+- 2024 Spring Update
 
 ## What I'm Working On
-- FLIP memory game
-- Tower Defence Game
-- Piano Tiles 2/Perfect Piano Remake
-- 3d Web platformer game
-- Group messaging webapp
+- Learning Java
 
 
 ## Stats
@@ -33,8 +25,10 @@ Have feedback or want to get to know me?  [Contact me!](https://zanewesley.githu
 ![javaScript](https://img.shields.io/badge/javascript-f0db4f?&style=for-the-badge&logo=javascript&logoColor=323330&colorA=eeeeee&colorB=f0db4f)
 
 ## Socials
+<a href="https://solo.to/zanewesley">Social Links</a>
+<br>
 <a href="https://codepen.io/zanewesley">CodePen</a>
 <br>
-<a href="https://www.strava.com/athletes/83598166">Strava</a>
+<a href="https://instagram.com/zanewesley27">Instagram</a>
 <br>
-<a href="https://discord.gg/4XEWxQ9Yvn">Discord</a>
+<a href="https://www.strava.com/athletes/83598166">Strava</a>
