@@ -1,7 +1,7 @@
 <img src="https://zanewesley.github.io/images/github-header.png" width="100%">
 
 # Hey There!
-I'm **Zane Wesley!** I love Jesus, web coding, running and Apple. I specialize in UX and UI development and design and work hard to make sure that all of my projects work flawlessly and are fully accessible.
+I'm **Zane Wesley!** I love Jesus, people, web dev, and Apple. I specialize in front-end UX and UI design and have run a personal website for fun since 2019, following my learning journey. Attending Union University :)
 
 Want to see what I've been up to? Visit my website to see my projects. [https://zanewesley.github.io](https://zanewesley.github.io)
 
