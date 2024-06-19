@@ -15,10 +15,6 @@ Have feedback or want to get to know me?  [Contact me!](https://zanewesley.githu
 ## What I'm Working On
 - Learning Java
 
-
-## Stats
-[![Zane's Stats](https://github-readme-stats.vercel.app/api?username=zanewesley&layout=compact&hide=prs&show_icons=true)](https://github.com/zanewesley)
-
 ## Languages
 ![html5](https://img.shields.io/badge/html5-f06529?&style=for-the-badge&logo=html5&logoColor=f06529&colorA=eeeeee&colorB=f06529)
 ![markdown](https://img.shields.io/badge/markdown-0077b5?style=for-the-badge&logo=markdown&logoColor=444444&colorA=eeeeee&colorB=444444)
