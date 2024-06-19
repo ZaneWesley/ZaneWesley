@@ -5,6 +5,8 @@ I'm **Zane Wesley!** I love Jesus, people, web dev, and Apple. I specialize in f
 
 Want to see what I've been up to? Visit my website to see my projects. [https://zanewesley.github.io](https://zanewesley.github.io)
 
+Looking for my dev portfolio? [View it here](https://zanewesley.github.io/portfolio).
+
 Have feedback or want to get to know me?  [Contact me!](https://zanewesley.github.io/feedback)
 
 ## What's New
