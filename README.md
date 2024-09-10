@@ -10,10 +10,11 @@ Looking for my dev portfolio? [View it here](https://zanewesley.github.io/portfo
 Have feedback or want to get to know me?  [Contact me!](https://zanewesley.github.io/feedback)
 
 ## What's New
-- 2024 Spring Update
+- 2024 Fall Update
+- Official Portfolio
 
 ## What I'm Working On
-- Learning Java
+- Learning Java and C#
 
 ## Languages
 ![html5](https://img.shields.io/badge/html5-f06529?&style=for-the-badge&logo=html5&logoColor=f06529&colorA=eeeeee&colorB=f06529)
